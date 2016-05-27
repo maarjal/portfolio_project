@@ -1,0 +1,34 @@
+body {
+  background: url("https://images.unsplash.com/photo-1458682625221-3a45f8a844c7?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=59692c31bc1695d3a504c719c5d8edd7");
+     background-size: 100%;
+     background-repeat: no-repeat;
+}
+
+.container {
+  color: #FCFCFC;
+  text-align: center;
+  margin-top: 25%;
+  margin-bottom: 25%;
+  max-width: 700px;
+}
+
+.container h1 {
+  font-family: 'Droid Sans Mono', serif;
+  font-weight: 400;
+  font-size: 72px;
+  text-transform: uppercase;
+  border-bottom: 3px dashed #FCFCFC;
+}
+.container h2 {
+  font-family: 'Droid Sans Mono', serif;
+  font-weight: 400;
+  font-size: 36px;
+}
+
+.buttons {
+  padding-top: 25px;
+  color: #4C6875;
+  margin-right: 25px;
+  text-transform: uppercase;
+  font-family: 'Droid Sans Mono', serif;
+}
