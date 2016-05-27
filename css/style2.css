@@ -20,17 +20,14 @@ h1 {
   color: red;
 }
 .profile {
-  background: url("img/port.jpeg") center top no-repeat;
   height: 300px;
   width: 300px;
-  size: 25%;
   border-radius: 50%;
   border: 7px solid hotpink;
+  float: left;
+  margin-top: 30px;
+
 }
-.profile:hover {
-  background: url("http://i.imgur.com/oH3tdle.jpg");
-  height: 300px;
-  width: 300px;
-  border-radius: 50%;
-  border: 7px solid hotpink;
+.intro {
+  text-align: center;
 }
