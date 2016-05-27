@@ -12,6 +12,8 @@ A simple portfolio landing page that includes "about me" section and displays co
 * Clone this repository
 * Open HTML page
 
+## GitHub pages
+Link to GitHub pages: http://maarjal.github.io/portfolio/
 
 ## Support and contact details
 
