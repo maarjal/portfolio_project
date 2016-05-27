@@ -24,10 +24,28 @@ h1 {
   width: 300px;
   border-radius: 50%;
   border: 7px solid hotpink;
-  float: left;
+  /*float: right;*/
   margin-top: 30px;
 
 }
 .intro {
   text-align: center;
+}
+
+.aboutme h1 {
+  color: #4C6875;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 42px;
+}
+
+.aboutme {
+  text-align: justify;
+  color: #55535B;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 18px;
+  display: flex;
+}
+
+.abouttext {
+  padding-right: 50px;
 }
