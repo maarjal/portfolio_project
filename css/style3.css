@@ -2,6 +2,13 @@ body {
   background-color: #27374A;
 }
 
+h1 {
+  color: #4C6875;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 42px;
+  text-align: center;
+}
+
 .navbar-default {
   background-color: #EFE8E1;
 }

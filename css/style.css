@@ -7,8 +7,7 @@ body {
 .container {
   color: #FCFCFC;
   text-align: center;
-  margin-top: 25%;
-  margin-bottom: 25%;
+  padding-top: 150px;
   max-width: 700px;
 }
 
