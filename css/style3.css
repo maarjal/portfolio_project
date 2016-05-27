@@ -6,7 +6,7 @@ body {
 }
 
 .navbar-default {
-  background-color: #EEE2DF;
+  background-color: #EFE8E1;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -20,7 +20,7 @@ body {
   width: 330px;
   height: 200px;
   border-radius: 15px;
-  border: 1px solid #BFBDC1;
+  border: 1px solid #546A7B;
 
 
 }
@@ -41,4 +41,8 @@ body {
   color: #4C6875;
   font-family: 'Ubuntu', sans-serif;
   font-size: 32px;
+}
+
+.social {
+  width: 100px;
 }
