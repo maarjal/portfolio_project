@@ -4,6 +4,33 @@ body {
      background-repeat: repeat;
 }
 
+.navbar-default {
+  background-color: #EFE8E1;
+
+
+}
+.navbar-default .navbar-nav > li > a {
+   color: #4C6875;
+   font-family: 'Ubuntu', sans-serif;
+   text-transform: uppercase;
+   font-size: 18px;
+    }
+
 h1 {
   color: red;
+}
+.profile {
+  background: url("img/port.jpeg") center top no-repeat;
+  height: 300px;
+  width: 300px;
+  size: 25%;
+  border-radius: 50%;
+  border: 7px solid hotpink;
+}
+.profile:hover {
+  background: url("http://i.imgur.com/oH3tdle.jpg");
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  border: 7px solid hotpink;
 }
