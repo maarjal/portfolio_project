@@ -1,8 +1,5 @@
 body {
-  /*background: url("http://i.imgur.com/1U0irLs.png");
-
-     background-repeat: repeat;*/
-     background-color: #27374A;
+  background-color: #27374A;
 }
 
 .navbar-default {
@@ -21,22 +18,20 @@ body {
   height: 200px;
   border-radius: 15px;
   border: 1px solid #546A7B;
-
-
 }
 
 .upper {
   padding-top: 50px;
   padding-bottom: 30px;
-
 }
+
 .lower {
   text-align: center;
   color: #d3d3d3;
   font-family: 'Ubuntu', sans-serif;
   font-size: 16px;
-
 }
+
 .lower h3 {
   color: #4C6875;
   font-family: 'Ubuntu', sans-serif;
