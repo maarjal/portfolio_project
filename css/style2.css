@@ -15,16 +15,12 @@ body {
    text-transform: uppercase;
    font-size: 18px;
     }
-
-h1 {
-  color: red;
-}
+    
 .profile {
   height: 300px;
   width: 300px;
   border-radius: 50%;
   border: 7px solid hotpink;
-  /*float: right;*/
   margin-top: 30px;
 
 }

@@ -3,6 +3,18 @@ body {
 
      background-repeat: repeat;
 }
+
+.navbar-default {
+  background-color: #EAD7D7;
+}
+
+.navbar-default .navbar-nav > li > a {
+   color: #4C6875;
+   font-family: 'Ubuntu', sans-serif;
+   text-transform: uppercase;
+   font-size: 18px;
+}
+
 .work img {
   width: 330px;
   height: 200px;
@@ -13,11 +25,19 @@ body {
 }
 
 .upper {
-  padding-top: 30px;
+  padding-top: 50px;
   padding-bottom: 30px;
 
 }
-
-/*.work {
-  width: 1200px;
-}*/
+.lower {
+  text-align: center;
+}
+.lower h3 {
+  color: #4C6875;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 32px;
+}
+.lower p {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+}
